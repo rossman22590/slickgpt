@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ShipBit/slickgpt">
+  <a href="https://slickgpt.vercel.app/">
     <img src="static/logo-slickgpt.svg" alt="Logo" height="160">
   </a>
 
@@ -109,6 +109,19 @@ See the [open issues](https://github.com/ShipBit/slickgpt/issues) for a full lis
 
 Contributions are always welcome! Feel free to open a pull request, report bugs, or submit feature requests on GitHub. Please follow the Code of Conduct and Contribution Guidelines when participating in this project.
 
+### Main Contributors
+
+<p>
+  <img src="https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Simon.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp" alt="image description" height="100">
+  <br>
+  <span>Simon Hopstätter</span>
+</p>
+<p>
+  <img src="https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Timo.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp" alt="image description" height="100">
+  <br>
+  <span>Timo Korinth</span>
+</p>
+
 <p align="right">[ <a href="#readme-top">back to top</a> ]</p>
 
 ## License
@@ -122,14 +135,6 @@ SlickGPT was initially created by [Simon Hopstätter](https://www.shipbit.de/tea
 <a href="https://www.shipbit.de">
   <img src="static/shipbit-logo.svg" alt="Logo" height="100">
 </a>
-
-## Main Contributors
-
-[![Simon Hopstätter](https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Simon.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp)](https://www.shipbit.de/team)
-
-[![Timo Korinth](https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Timo.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp)](https://www.shipbit.de/team)
-
-<!-- Show a list of main contributors with image and name -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
